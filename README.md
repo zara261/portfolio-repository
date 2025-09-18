@@ -9,7 +9,7 @@ Description: My personel portfolio website.
 
 ### 17. Textiles E-Commerce Website
 Description: Full e-commerce platform with cart and checkout.
-[Repo](https://github.com/zara261/textiles-ecommerce) | [Live Demo](https://textiles.com)
+[Repo](https://github.com/zara261/textiles-ecommerce-website-in-react) | [Live Demo](https://zara261.github.io/textiles-ecommerce-website-in-react/)
 
 ### 16. React Practice Website
 Description: First react project.
