@@ -11,10 +11,6 @@ Description: My personel portfolio website.
 Description: Full e-commerce platform with cart and checkout.
 [Repo](https://github.com/zara261/textiles-ecommerce-website-in-react) | [Live Demo](https://zara261.github.io/textiles-ecommerce-website-in-react/)
 
-### 16. React Practice Website
-Description: First react project.
-[Repo](https://github.com/zara261/react-project) | [Live Demo](https://zara261.github.io/react-project/)
-
 ### 16. Study Abroad Website
 Description: study abroad platform.
 [Repo](https://github.com/zara261/study-abroad-website) | [Live Demo](https://zara261.github.io/study-abroad-website/)
@@ -50,14 +46,6 @@ Description: Career institute website institute of it cources.
 ### 7. Scientific Calculator Website
 Description: Scientific calculator website.
 [Repo](https://github.com/zara261/scientific-calculator) | [Live Demo](https://zara261.github.io/scientific-calculator/)
-
-### 6. My Second Website
-Description: My second website.
-[Repo](https://github.com/zara261/2nd-website) | [Live Demo]( https://zara261.github.io/2nd-website/)
-
-### 5. My First Website
-Description: My first website.
-[Repo](https://github.com/zara261/1st-website) | [Live Demo](https://zara261.github.io/1st-website/)
 
 ### 4. Ball Creature Website
 Description: Ball creature website.
